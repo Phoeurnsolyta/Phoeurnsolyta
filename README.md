@@ -1,5 +1,5 @@
 <div align="center">
-<img width="85%" alt="Profile Banner" src="https://github.com/user-attachments/assets/e19d6d44-edb2-40c1-85a4-b8b7629009ae" />
+<img width="100%"  alt="Profile Banner" src="https://github.com/user-attachments/assets/e19d6d44-edb2-40c1-85a4-b8b7629009ae" />
 </div>
 # 💫 About Me:
 An IT student
