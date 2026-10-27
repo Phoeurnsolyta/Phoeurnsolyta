@@ -3,10 +3,7 @@
   <img width="60%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png" alt="Header Divider" />
   
   <br/>
-
-  <!-- Your New Banner Image -->
-  <img width="85%" src="(https://i.pinimg.com/1200x/d9/0f/69/d90f697b549ecd2ff18087e1deaf6e05.jpg)" alt="Profile Banner" />
-
+<img width="85%" alt="Profile Banner" src="https://github.com/user-attachments/assets/e19d6d44-edb2-40c1-85a4-b8b7629009ae" />
 </div>
 # 💫 About Me:
 An IT student
