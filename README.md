@@ -1,8 +1,4 @@
 <div align="center">
-<!-- Top Vine Flourish (Keep or remove if you want) -->
-  <img width="60%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png" alt="Header Divider" />
-  
-  <br/>
 <img width="85%" alt="Profile Banner" src="https://github.com/user-attachments/assets/e19d6d44-edb2-40c1-85a4-b8b7629009ae" />
 </div>
 # 💫 About Me:
