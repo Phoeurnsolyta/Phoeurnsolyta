@@ -1,3 +1,9 @@
+<div align="center">
+
+  <!-- Your New Banner Image -->
+  <img width="85%" src="(https://i.pinimg.com/1200x/d9/0f/69/d90f697b549ecd2ff18087e1deaf6e05.jpg)" alt="Profile Banner" />
+
+</div>
 # 💫 About Me:
 An IT student
 
